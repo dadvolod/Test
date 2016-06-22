@@ -17,24 +17,26 @@ public class GmailLoginTC {
 	@Test
 	public void Login() throws InterruptedException
 	{
-		System.setProperty("webdriver.chrome.driver", "/Users/dmitriyadvolodkin/Desktop/chromedriver");
-		WebDriver driver= new ChromeDriver();
-		driver.get("http://google.com");
+//		System.setProperty("webdriver.chrome.driver", "/Users/dmitriyadvolodkin/Desktop/chromedriver");
+//		WebDriver driver= new ChromeDriver();
+		// WebDriver driver= new FirefoxDriver();
+		// driver.get("http://google.com");
 		
-		GooglePage gh=new GooglePage(driver);
-		gh.GmailLink().click();
+		// GooglePage gh=new GooglePage(driver);
+		// gh.GmailLink().click();
 		
-		GmailLoginPage gl=new GmailLoginPage(driver);
-		gl.Signin().click();
+		// GmailLoginPage gl=new GmailLoginPage(driver);
+		// gl.Signin().click();
 		
-		GmailEmailInputPage ge = new GmailEmailInputPage(driver);
-		ge.EmailInput().sendKeys("dadvolodkin@governmentcio.com");
-		ge.NextButton().click();
+		// GmailEmailInputPage ge = new GmailEmailInputPage(driver);
+		// ge.EmailInput().sendKeys("dadvolodkin@governmentcio.com");
+		// ge.NextButton().click();
 		
-		GmailPasswordInputPage gp = new GmailPasswordInputPage(driver);
-		Thread.sleep(4000);
-		gp.PasswordInput().sendKeys("");
-		gp.NextButton().click();
+		// GmailPasswordInputPage gp = new GmailPasswordInputPage(driver);
+		// Thread.sleep(4000);
+		// gp.PasswordInput().sendKeys("");
+		// gp.NextButton().click();
+		system.out.println("Hi")
 		
 		
 		

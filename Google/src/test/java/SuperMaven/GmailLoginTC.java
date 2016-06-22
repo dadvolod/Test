@@ -36,7 +36,7 @@ public class GmailLoginTC {
 		// Thread.sleep(4000);
 		// gp.PasswordInput().sendKeys("");
 		// gp.NextButton().click();
-		system.out.println("Hi");
+		System.out.println("hi");
 		
 		
 		

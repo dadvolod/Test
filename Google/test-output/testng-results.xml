@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10628" started-at="2016-06-21T14:59:31Z" finished-at="2016-06-21T14:59:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10628" started-at="2016-06-21T14:59:31Z" finished-at="2016-06-21T14:59:41Z">
+      <class name="SuperMaven.GmailLoginTC">
+        <test-method status="PASS" signature="Login()[pri:0, instance:SuperMaven.GmailLoginTC@36d4b5c]" name="Login" duration-ms="10618" started-at="2016-06-21T10:59:31Z" finished-at="2016-06-21T10:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- SuperMaven.GmailLoginTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

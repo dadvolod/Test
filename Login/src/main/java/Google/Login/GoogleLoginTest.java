@@ -5,7 +5,6 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Assert;
 
 
 
@@ -16,7 +15,6 @@ public class GoogleLoginTest {
 	public String gmailPassword = "Password123#";
 
 	
-	@Test
 	public void Login(){	
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/dmitriyadvolodkin/Documents/Google/Drivers/chromedriver");

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automatio Test" duration-ms="3447" started-at="2016-07-18T18:06:11Z" finished-at="2016-07-18T18:06:15Z">
+    <groups>
+    </groups>
+    <test name="Smoke Testcases" duration-ms="3447" started-at="2016-07-18T18:06:11Z" finished-at="2016-07-18T18:06:15Z">
+      <class name="Google.Login.GoogleLoginTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Google.Login.GoogleLoginTest@6cd8737]" name="Login" duration-ms="3437" started-at="2016-07-18T14:06:11Z" finished-at="2016-07-18T14:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Google.Login.GoogleLoginTest -->
+    </test> <!-- Smoke Testcases -->
+  </suite> <!-- Automatio Test -->
+</testng-results>

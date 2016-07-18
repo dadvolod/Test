@@ -15,7 +15,6 @@ public class GoogleLoginTC {
 	public String gmailPassword = "Password123#";
 
 	
-	@Test
 	public void Login(){	
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/dmitriyadvolodkin/Documents/Google/Drivers/chromedriver");

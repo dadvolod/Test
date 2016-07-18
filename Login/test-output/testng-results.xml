@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3549" started-at="2016-07-18T14:56:54Z" finished-at="2016-07-18T14:56:58Z">
+  <suite name="Default suite" duration-ms="4507" started-at="2016-07-18T17:44:34Z" finished-at="2016-07-18T17:44:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3549" started-at="2016-07-18T14:56:54Z" finished-at="2016-07-18T14:56:58Z">
-      <class name="Google.Login.GoogleLoginTC">
-        <test-method status="PASS" signature="Login()[pri:0, instance:Google.Login.GoogleLoginTC@d2cc05a]" name="Login" duration-ms="3539" started-at="2016-07-18T10:56:54Z" finished-at="2016-07-18T10:56:58Z">
+    <test name="Default test" duration-ms="4507" started-at="2016-07-18T17:44:34Z" finished-at="2016-07-18T17:44:38Z">
+      <class name="Google.Login.GoogleLoginTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Google.Login.GoogleLoginTest@d2cc05a]" name="Login" duration-ms="4498" started-at="2016-07-18T13:44:34Z" finished-at="2016-07-18T13:44:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-      </class> <!-- Google.Login.GoogleLoginTC -->
+      </class> <!-- Google.Login.GoogleLoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

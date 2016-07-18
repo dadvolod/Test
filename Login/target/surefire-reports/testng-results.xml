@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Automatio Test" duration-ms="3185" started-at="2016-07-18T14:57:57Z" finished-at="2016-07-18T14:58:00Z">
+  <suite name="Automatio Test" duration-ms="3227" started-at="2016-07-18T17:44:58Z" finished-at="2016-07-18T17:45:01Z">
     <groups>
     </groups>
-    <test name="Smoke Testcases" duration-ms="3185" started-at="2016-07-18T14:57:57Z" finished-at="2016-07-18T14:58:00Z">
-      <class name="Google.Login.GoogleLoginTC">
-        <test-method status="PASS" signature="Login()[pri:0, instance:Google.Login.GoogleLoginTC@6cd8737]" name="Login" duration-ms="3175" started-at="2016-07-18T10:57:57Z" finished-at="2016-07-18T10:58:00Z">
+    <test name="Smoke Testcases" duration-ms="3227" started-at="2016-07-18T17:44:58Z" finished-at="2016-07-18T17:45:01Z">
+      <class name="Google.Login.GoogleLoginTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Google.Login.GoogleLoginTest@6cd8737]" name="Login" duration-ms="3219" started-at="2016-07-18T13:44:58Z" finished-at="2016-07-18T13:45:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-      </class> <!-- Google.Login.GoogleLoginTC -->
+      </class> <!-- Google.Login.GoogleLoginTest -->
     </test> <!-- Smoke Testcases -->
   </suite> <!-- Automatio Test -->
 </testng-results>

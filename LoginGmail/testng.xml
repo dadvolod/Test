@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automatio Test">
+    <test name="Smoke Testcases">
+    <packages>
+       <package name="GoogleApp.LoginGmail" />      
+    </packages>
+    
+    </test>
+    
+</suite>
